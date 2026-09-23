@@ -1,6 +1,6 @@
-# TrackSkiResorts Support
+# FreshTrax Support
 
-Welcome to the official support page for **TrackSkiResorts**, an iPhone app that helps you log the ski resorts you’ve visited, rate your experiences, and share feedback with friends.
+Welcome to the official support page for **FreshTrax**, an iPhone app that helps you log the ski resorts you’ve visited, rate your experiences, and share feedback with friends.
 
 ## Need Help?
 If you run into any issues with the app or have questions:
@@ -16,8 +16,8 @@ If you run into any issues with the app or have questions:
 - View resorts and feedback from others
 
 ## Feedback
-This app is currently in early release. If you have suggestions for new features or improvements, please open an [Issue](https://github.com/spencertzd/trackskioresorts/issues) on this page or contact us by email.
+Have a suggestion for FreshTrax? Email [freshtraxsupport@gmail.com](mailto:freshtraxsupport@gmail.com) with your ideas or feedback.
 
 ---
 
-© 2025 Todd Spencer. All rights reserved.
+© 2026 Todd Spencer. All rights reserved.
