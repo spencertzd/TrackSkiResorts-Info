@@ -5,7 +5,7 @@ Welcome to the official support page for **TrackSkiResorts**, an iPhone app that
 ## Need Help?
 If you run into any issues with the app or have questions:
 
-- 📧 Contact: [toddspencer@email.com](mailto:toddspencer@email.com)
+- 📧 Contact: [freshtraxsupport@gmail.com](mailto:freshtraxsupport@gmail.com)
 - 🧾 Privacy Policy: [Link to your privacy policy page](https://YOUR-PRIVACY-POLICY-LINK)
 
 ## Features
