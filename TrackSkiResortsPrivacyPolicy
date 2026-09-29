@@ -1,0 +1,78 @@
+# FreshTrax Privacy Policy
+
+Effective date: September 29, 2026
+
+FreshTrax is operated by Todd Spencer. FreshTrax helps you record ski activities, keep a list of resorts you have visited, manage season passes, and view community resort information. This policy explains how information is handled when you use FreshTrax and contact support.
+
+## Information we collect and use
+
+**Account and profile information.** When you sign in with Apple, FreshTrax receives an app-specific identifier and, when Apple provides them, your name and email address. Your email may be an Apple private relay address. FreshTrax stores sign-in information on your device and associates your display name and saved records with your account identifier.
+
+**Resort visits and feedback.** FreshTrax stores and synchronizes the resorts you add, ratings, favorite runs, return preferences, and feedback. Community features can show display names, resort visits, ratings, feedback, and counts to other users. Avoid including private information in your display name or resort feedback.
+
+**Location and ski activities.** With your permission, FreshTrax uses precise location to record your route and calculate speed, distance, vertical change, and other activity statistics. Location recording can continue in the background during an active recording. The app also uses location to identify nearby resorts through Google Places.
+
+Detailed GPS points and imported GPX tracks are stored on your device. FreshTrax sends ski-day summaries to its cloud service when you stop a recording, import a GPX file, or choose Upload Summary. These summaries include your account identifier, activity identifier, dates and times, resort name, activity type, speed, distance, vertical change, and run count. The ski-day summary upload does not include the detailed GPS route points.
+
+**Season passes.** FreshTrax stores and synchronizes pass names, seasons, purchase or consideration status, costs, associated resorts, planned ski dates, and related information you enter.
+
+**Subscriptions.** Apple handles subscription payments. FreshTrax uses Apple's StoreKit transaction and entitlement information to determine access to subscription features. FreshTrax does not collect your payment-card details.
+
+**Support communications.** If you email support, we receive your email address, message, and any attachments you send and use them to respond to you.
+
+**Service logs.** Cloud services generate technical and diagnostic logs. Some FreshTrax service logs include submitted ski-day summary information, such as account identifiers, resort names, activity dates, and statistics, as well as request results or errors.
+
+## How we use information
+
+We use information to provide account access, save and display your records, synchronize supported records, calculate activity statistics, locate nearby resorts, manage passes and subscription access, provide community features, troubleshoot the service, and respond to support and privacy requests.
+
+## Service providers and sharing
+
+FreshTrax uses:
+
+- **Apple** for Sign in with Apple, subscription purchases, and entitlement verification.
+- **Amazon Web Services (AWS)** to host FreshTrax cloud data, APIs, configuration, and service logs.
+- **Google Places** to identify nearby resorts. Nearby-search requests include location coordinates.
+- **Gmail** to receive and respond to support email.
+
+FreshTrax does not use advertising services or additional analytics or data-sharing providers beyond those listed above. These providers process information needed to deliver their services. Their own privacy policies also describe their handling of information: [Apple](https://www.apple.com/legal/privacy/), [AWS](https://aws.amazon.com/privacy/), and [Google](https://policies.google.com/privacy).
+
+Community information described above is visible through FreshTrax's community features. If you export or share a GPX file, it may contain precise route coordinates and timestamps. You decide whom to share it with; the receiving app or person controls their copy.
+
+FreshTrax's cloud APIs and primary data tables are hosted in AWS's US East (Northern Virginia) region. Depending on where you live and which provider services you use, information may be processed outside your country.
+
+## Retention and deletion
+
+**Local records.** Records remain on your device until you remove them, delete your account in the app, or otherwise remove the app's local data. Removing the app alone does not send a cloud account-deletion request.
+
+**Cloud records.** Active resort, pass, and ski-day records do not currently have an automatic expiry date. They remain in the cloud until removed through supported deletion functions.
+
+**Deleting a ski day.** Individual ski-day deletion marks the corresponding cloud summary as deleted and records a deletion timestamp. It does not physically erase that cloud record. There is currently no automatic expiry for these marked records.
+
+**Deleting your account.** Use Delete Account in the app to request removal of your account's resort records, season passes, and ski-day summaries from the active cloud tables, including ski-day summaries previously marked as deleted. After a successful server response, the app removes local resort records, profiles, ski days and GPS points, passes and planned days, saved sign-in information, and preferences. If deletion fails, follow the app's error message or contact support. Deleting your FreshTrax account does not cancel an Apple subscription or remove copies you previously exported or shared.
+
+**Logs and other copies.** Account deletion does not itself erase service logs, support email, or independently retained provider copies. The ski-summary service's cloud logs currently have no automatic expiry. Support correspondence is retained to handle your request and related follow-up; you can request its deletion by contacting support. Provider-managed copies are subject to the applicable provider’s retention practices. We do not currently specify a fixed deletion deadline for logs or provider-managed copies. Contact support with questions or requests concerning information remaining outside the active account tables.
+
+## Your choices and requests
+
+- Change or revoke location access in your iPhone's Settings. Restricting access affects recording and nearby-resort detection.
+- Review and change information using the app's available controls.
+- Use Delete Account to request account-data removal.
+- Manage or cancel subscriptions in your Apple subscription settings.
+- Email **freshtraxsupport@gmail.com** to request access, correction, or deletion of personal information, or to ask a privacy question. We may need information to verify that a request concerns your account. Please do not send passwords or unnecessary sensitive information.
+
+## Children
+
+FreshTrax is intended for a general audience and is not directed to children under 13. If you believe a child under 13 has provided personal information through FreshTrax, contact freshtraxsupport@gmail.com so we can investigate and address the information.
+
+## Security
+
+FreshTrax uses HTTPS for its cloud API requests and the device Keychain for saved Apple sign-in information. No method of transmission or storage can guarantee complete security.
+
+## Changes to this policy
+
+Updates will be published on this page with a revised effective date. Check this policy for changes to FreshTrax's information-handling practices.
+
+## Contact
+
+For privacy questions or requests, contact **freshtraxsupport@gmail.com**.
